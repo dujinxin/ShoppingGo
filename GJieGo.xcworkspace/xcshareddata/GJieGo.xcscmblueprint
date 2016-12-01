@@ -1,0 +1,75 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "aec9a4eb-b16a-4440-bf87-4fa1128ff9fe++8082+++45DDD9F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "447576a2-f341-4371-b108-4e3d28df04ac++6584+++526DA3E" : {
+
+    },
+    "aec9a4eb-b16a-4440-bf87-4fa1128ff9fe++8082+++D76BD89" : {
+
+    },
+    "aec9a4eb-b16a-4440-bf87-4fa1128ff9fe++8082+++E70249C" : {
+
+    },
+    "aec9a4eb-b16a-4440-bf87-4fa1128ff9fe++8082+++45DDD9F" : {
+
+    },
+    "aec9a4eb-b16a-4440-bf87-4fa1128ff9fe++8082+++8DCF6F8" : {
+
+    },
+    "aec9a4eb-b16a-4440-bf87-4fa1128ff9fe++8082+++6F85F32" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "447576a2-f341-4371-b108-4e3d28df04ac++6584+++526DA3E" : 0,
+    "aec9a4eb-b16a-4440-bf87-4fa1128ff9fe++8082+++D76BD89" : 0,
+    "aec9a4eb-b16a-4440-bf87-4fa1128ff9fe++8082+++E70249C" : 0,
+    "aec9a4eb-b16a-4440-bf87-4fa1128ff9fe++8082+++45DDD9F" : 0,
+    "aec9a4eb-b16a-4440-bf87-4fa1128ff9fe++8082+++8DCF6F8" : 0,
+    "aec9a4eb-b16a-4440-bf87-4fa1128ff9fe++8082+++6F85F32" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E7C408E5-2A33-41FA-B0C1-1D93F4FBA45C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "447576a2-f341-4371-b108-4e3d28df04ac++6584+++526DA3E" : "GJieGo\/GJieGo\/GJGTools%E5%B7%A5%E5%85%B7%E7%B1%BB\/MD5\/",
+    "aec9a4eb-b16a-4440-bf87-4fa1128ff9fe++8082+++D76BD89" : "GJieGo\/",
+    "aec9a4eb-b16a-4440-bf87-4fa1128ff9fe++8082+++E70249C" : "",
+    "aec9a4eb-b16a-4440-bf87-4fa1128ff9fe++8082+++45DDD9F" : "Shopping_C\/",
+    "aec9a4eb-b16a-4440-bf87-4fa1128ff9fe++8082+++8DCF6F8" : "GJieGoTest\/",
+    "aec9a4eb-b16a-4440-bf87-4fa1128ff9fe++8082+++6F85F32" : "GJieGo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GJieGo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GJieGo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.1.12\/sg",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "447576a2-f341-4371-b108-4e3d28df04ac++6584+++526DA3E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/172.136.1.168",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "aec9a4eb-b16a-4440-bf87-4fa1128ff9fe++8082+++45DDD9F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.1.168",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "aec9a4eb-b16a-4440-bf87-4fa1128ff9fe++8082+++6F85F32"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/172.136.1.168",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "aec9a4eb-b16a-4440-bf87-4fa1128ff9fe++8082+++8DCF6F8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.1.168",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "aec9a4eb-b16a-4440-bf87-4fa1128ff9fe++8082+++D76BD89"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/172.136.1.168",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "aec9a4eb-b16a-4440-bf87-4fa1128ff9fe++8082+++E70249C"
+    }
+  ]
+}
